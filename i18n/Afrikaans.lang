@@ -7,24 +7,24 @@
 
 {
 	"sEmptyTable":     "Geen data beskikbaar in tabel",
-	"sInfo":           "uitstalling _START_ to _END_ of _TOTAL_ inskrywings",
-	"sInfoEmpty":      "uitstalling 0 to 0 of 0 inskrywings",
+	"sInfo":           "Uitstalling _START_ van _END_ van _TOTAL_ inskrywings",
+	"sInfoEmpty":      "Uitstalling 0 to 0 of 0 inskrywings",
 	"sInfoFiltered":   "(gefiltreer uit _MAX_ totaal inskrywings)",
 	"sInfoPostFix":    "",
 	"sInfoThousands":  ",",
-	"sLengthMenu":     "uitstal _MENU_ inskrywings",
-	"sLoadingRecords": "laai...",
-	"sProcessing":     "verwerking...",
-	"sSearch":         "soektog:",
-	"sZeroRecords":    "Geen treffers gevind",
+	"sLengthMenu":     "Uitstal _MENU_ inskrywings",
+	"sLoadingRecords": "Laai...",
+	"sProcessing":     "Verwerking...",
+	"sSearch":         "Soek:",
+	"sZeroRecords":    "Daar was geen resultate gevind nie!",
 	"oPaginate": {
-		"sFirst":    "eerste",
-		"sLast":     "laaste",
-		"sNext":     "volgende",
-		"sPrevious": "vorige"
+		"sFirst":    "Eerste",
+		"sLast":     "Laaste",
+		"sNext":     "Volgende",
+		"sPrevious": "Vorige"
 	},
 	"oAria": {
-		"sSortAscending":  ": aktiveer kolom stygende te sorteer",
-		"sSortDescending": ": aktiveer kolom orde te sorteer"
+		"sSortAscending":  ": Sorteer in stygende orde",
+		"sSortDescending": ": Sorteer in dalende orde"
 	}
 }
